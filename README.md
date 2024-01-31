@@ -3,6 +3,10 @@
 
 支持排除转推内容 & 多用户爬取 & 时间范围限制 
 
+**利用ChatGPT增添了config_and_run.py** 
+
+该文件可以自动更新settings.json并运行main.py
+
 **目前老马加了API的请求次数限制** 
 ``` 
 当程序抛出：Rate limit exceeded 
